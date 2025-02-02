@@ -1,4 +1,5 @@
 # Deep-Learning-Roadmap
 Watch More on my Deep Learning Readmap video - https://www.youtube.com/shorts/6DXIXWS6MIg
 
-![Deep Learning Roadmap 2025](https://github.com/user-attachments/assets/18922ba3-dc00-4601-93d0-7a544a9052d2)
+![DL-Roadmap](https://github.com/user-attachments/assets/d0a68037-1c9f-4824-a9fb-fad8bd1826a3)
+
