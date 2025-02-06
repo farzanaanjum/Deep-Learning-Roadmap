@@ -1,5 +1,6 @@
-# Deep-Learning-Roadmap
+# Deep Learning Engineer Roadmap
 Watch More on my Deep Learning Readmap video - https://www.youtube.com/shorts/6DXIXWS6MIg
 
-![DL-Roadmap](https://github.com/user-attachments/assets/d0a68037-1c9f-4824-a9fb-fad8bd1826a3)
+
+![DL-Roadmap (1)](https://github.com/user-attachments/assets/2761b03f-f647-4f0c-b5f5-d55158217c3b)
 
